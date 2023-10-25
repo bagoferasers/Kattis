@@ -1,0 +1,14 @@
+E:\Kattis\C#\Easy\Vidsnuningur\bin\Debug\net7.0\Vidsnuningur.exe
+E:\Kattis\C#\Easy\Vidsnuningur\bin\Debug\net7.0\Vidsnuningur.deps.json
+E:\Kattis\C#\Easy\Vidsnuningur\bin\Debug\net7.0\Vidsnuningur.runtimeconfig.json
+E:\Kattis\C#\Easy\Vidsnuningur\bin\Debug\net7.0\Vidsnuningur.dll
+E:\Kattis\C#\Easy\Vidsnuningur\bin\Debug\net7.0\Vidsnuningur.pdb
+E:\Kattis\C#\Easy\Vidsnuningur\obj\Debug\net7.0\Vidsnuningur.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kattis\C#\Easy\Vidsnuningur\obj\Debug\net7.0\Vidsnuningur.AssemblyInfoInputs.cache
+E:\Kattis\C#\Easy\Vidsnuningur\obj\Debug\net7.0\Vidsnuningur.AssemblyInfo.cs
+E:\Kattis\C#\Easy\Vidsnuningur\obj\Debug\net7.0\Vidsnuningur.csproj.CoreCompileInputs.cache
+E:\Kattis\C#\Easy\Vidsnuningur\obj\Debug\net7.0\Vidsnuningur.dll
+E:\Kattis\C#\Easy\Vidsnuningur\obj\Debug\net7.0\refint\Vidsnuningur.dll
+E:\Kattis\C#\Easy\Vidsnuningur\obj\Debug\net7.0\Vidsnuningur.pdb
+E:\Kattis\C#\Easy\Vidsnuningur\obj\Debug\net7.0\Vidsnuningur.genruntimeconfig.cache
+E:\Kattis\C#\Easy\Vidsnuningur\obj\Debug\net7.0\ref\Vidsnuningur.dll
