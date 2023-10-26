@@ -1,0 +1,14 @@
+E:\Kattis\C#\Easy\Hradgreining\bin\Debug\net7.0\Hradgreining.exe
+E:\Kattis\C#\Easy\Hradgreining\bin\Debug\net7.0\Hradgreining.deps.json
+E:\Kattis\C#\Easy\Hradgreining\bin\Debug\net7.0\Hradgreining.runtimeconfig.json
+E:\Kattis\C#\Easy\Hradgreining\bin\Debug\net7.0\Hradgreining.dll
+E:\Kattis\C#\Easy\Hradgreining\bin\Debug\net7.0\Hradgreining.pdb
+E:\Kattis\C#\Easy\Hradgreining\obj\Debug\net7.0\Hradgreining.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kattis\C#\Easy\Hradgreining\obj\Debug\net7.0\Hradgreining.AssemblyInfoInputs.cache
+E:\Kattis\C#\Easy\Hradgreining\obj\Debug\net7.0\Hradgreining.AssemblyInfo.cs
+E:\Kattis\C#\Easy\Hradgreining\obj\Debug\net7.0\Hradgreining.csproj.CoreCompileInputs.cache
+E:\Kattis\C#\Easy\Hradgreining\obj\Debug\net7.0\Hradgreining.dll
+E:\Kattis\C#\Easy\Hradgreining\obj\Debug\net7.0\refint\Hradgreining.dll
+E:\Kattis\C#\Easy\Hradgreining\obj\Debug\net7.0\Hradgreining.pdb
+E:\Kattis\C#\Easy\Hradgreining\obj\Debug\net7.0\Hradgreining.genruntimeconfig.cache
+E:\Kattis\C#\Easy\Hradgreining\obj\Debug\net7.0\ref\Hradgreining.dll
