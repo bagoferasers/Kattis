@@ -12,3 +12,17 @@ E:\Kattis\C#\FIFA\obj\Debug\net7.0\refint\FIFA.dll
 E:\Kattis\C#\FIFA\obj\Debug\net7.0\FIFA.pdb
 E:\Kattis\C#\FIFA\obj\Debug\net7.0\FIFA.genruntimeconfig.cache
 E:\Kattis\C#\FIFA\obj\Debug\net7.0\ref\FIFA.dll
+E:\Kattis\C#\Easy\FIFA\bin\Debug\net7.0\FIFA.exe
+E:\Kattis\C#\Easy\FIFA\bin\Debug\net7.0\FIFA.deps.json
+E:\Kattis\C#\Easy\FIFA\bin\Debug\net7.0\FIFA.runtimeconfig.json
+E:\Kattis\C#\Easy\FIFA\bin\Debug\net7.0\FIFA.dll
+E:\Kattis\C#\Easy\FIFA\bin\Debug\net7.0\FIFA.pdb
+E:\Kattis\C#\Easy\FIFA\obj\Debug\net7.0\FIFA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kattis\C#\Easy\FIFA\obj\Debug\net7.0\FIFA.AssemblyInfoInputs.cache
+E:\Kattis\C#\Easy\FIFA\obj\Debug\net7.0\FIFA.AssemblyInfo.cs
+E:\Kattis\C#\Easy\FIFA\obj\Debug\net7.0\FIFA.csproj.CoreCompileInputs.cache
+E:\Kattis\C#\Easy\FIFA\obj\Debug\net7.0\FIFA.dll
+E:\Kattis\C#\Easy\FIFA\obj\Debug\net7.0\refint\FIFA.dll
+E:\Kattis\C#\Easy\FIFA\obj\Debug\net7.0\FIFA.pdb
+E:\Kattis\C#\Easy\FIFA\obj\Debug\net7.0\FIFA.genruntimeconfig.cache
+E:\Kattis\C#\Easy\FIFA\obj\Debug\net7.0\ref\FIFA.dll

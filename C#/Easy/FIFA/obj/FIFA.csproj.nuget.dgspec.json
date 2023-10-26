@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Kattis\\C#\\FIFA\\FIFA.csproj": {}
+    "E:\\Kattis\\C#\\Easy\\FIFA\\FIFA.csproj": {}
   },
   "projects": {
-    "E:\\Kattis\\C#\\FIFA\\FIFA.csproj": {
+    "E:\\Kattis\\C#\\Easy\\FIFA\\FIFA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Kattis\\C#\\FIFA\\FIFA.csproj",
+        "projectUniqueName": "E:\\Kattis\\C#\\Easy\\FIFA\\FIFA.csproj",
         "projectName": "FIFA",
-        "projectPath": "E:\\Kattis\\C#\\FIFA\\FIFA.csproj",
+        "projectPath": "E:\\Kattis\\C#\\Easy\\FIFA\\FIFA.csproj",
         "packagesPath": "C:\\Users\\ctrul\\.nuget\\packages\\",
-        "outputPath": "E:\\Kattis\\C#\\FIFA\\obj\\",
+        "outputPath": "E:\\Kattis\\C#\\Easy\\FIFA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ctrul\\AppData\\Roaming\\NuGet\\NuGet.Config"

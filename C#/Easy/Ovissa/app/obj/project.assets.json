@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Kattis\\C#\\app\\app.csproj",
+      "projectUniqueName": "E:\\Kattis\\C#\\Easy\\Ovissa\\app\\app.csproj",
       "projectName": "app",
-      "projectPath": "E:\\Kattis\\C#\\app\\app.csproj",
+      "projectPath": "E:\\Kattis\\C#\\Easy\\Ovissa\\app\\app.csproj",
       "packagesPath": "C:\\Users\\ctrul\\.nuget\\packages\\",
-      "outputPath": "E:\\Kattis\\C#\\app\\obj\\",
+      "outputPath": "E:\\Kattis\\C#\\Easy\\Ovissa\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ctrul\\AppData\\Roaming\\NuGet\\NuGet.Config"

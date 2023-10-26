@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "372Z4njupt4J4d0dK/I9PB8L8r/YFpeybeA32NAUmp39JugABJDP9/nOESxwK+GVrPLOfNEXHBaNqUBAhVKOrQ==",
+  "dgSpecHash": "78Yf6nKm/AiEHBQjdbwGx+D5oJLGJcrIEwdSBhvl3cY4wxTGN+d9CVPhfL6M18HFqQ3iY5J3KR1QvRBPhIkcnA==",
   "success": true,
-  "projectFilePath": "E:\\Kattis\\C#\\FIFA\\FIFA.csproj",
+  "projectFilePath": "E:\\Kattis\\C#\\Easy\\FIFA\\FIFA.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

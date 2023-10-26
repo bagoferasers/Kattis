@@ -12,3 +12,17 @@ E:\Kattis\C#\app\obj\Debug\net7.0\refint\app.dll
 E:\Kattis\C#\app\obj\Debug\net7.0\app.pdb
 E:\Kattis\C#\app\obj\Debug\net7.0\app.genruntimeconfig.cache
 E:\Kattis\C#\app\obj\Debug\net7.0\ref\app.dll
+E:\Kattis\C#\Easy\Ovissa\app\bin\Debug\net7.0\app.exe
+E:\Kattis\C#\Easy\Ovissa\app\bin\Debug\net7.0\app.deps.json
+E:\Kattis\C#\Easy\Ovissa\app\bin\Debug\net7.0\app.runtimeconfig.json
+E:\Kattis\C#\Easy\Ovissa\app\bin\Debug\net7.0\app.dll
+E:\Kattis\C#\Easy\Ovissa\app\bin\Debug\net7.0\app.pdb
+E:\Kattis\C#\Easy\Ovissa\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kattis\C#\Easy\Ovissa\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+E:\Kattis\C#\Easy\Ovissa\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+E:\Kattis\C#\Easy\Ovissa\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+E:\Kattis\C#\Easy\Ovissa\app\obj\Debug\net7.0\app.dll
+E:\Kattis\C#\Easy\Ovissa\app\obj\Debug\net7.0\refint\app.dll
+E:\Kattis\C#\Easy\Ovissa\app\obj\Debug\net7.0\app.pdb
+E:\Kattis\C#\Easy\Ovissa\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+E:\Kattis\C#\Easy\Ovissa\app\obj\Debug\net7.0\ref\app.dll
