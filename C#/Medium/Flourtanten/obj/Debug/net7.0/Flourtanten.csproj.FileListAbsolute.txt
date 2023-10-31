@@ -1,0 +1,14 @@
+E:\Kattis\C#\Medium\Flourtanten\bin\Debug\net7.0\Flourtanten.exe
+E:\Kattis\C#\Medium\Flourtanten\bin\Debug\net7.0\Flourtanten.deps.json
+E:\Kattis\C#\Medium\Flourtanten\bin\Debug\net7.0\Flourtanten.runtimeconfig.json
+E:\Kattis\C#\Medium\Flourtanten\bin\Debug\net7.0\Flourtanten.dll
+E:\Kattis\C#\Medium\Flourtanten\bin\Debug\net7.0\Flourtanten.pdb
+E:\Kattis\C#\Medium\Flourtanten\obj\Debug\net7.0\Flourtanten.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kattis\C#\Medium\Flourtanten\obj\Debug\net7.0\Flourtanten.AssemblyInfoInputs.cache
+E:\Kattis\C#\Medium\Flourtanten\obj\Debug\net7.0\Flourtanten.AssemblyInfo.cs
+E:\Kattis\C#\Medium\Flourtanten\obj\Debug\net7.0\Flourtanten.csproj.CoreCompileInputs.cache
+E:\Kattis\C#\Medium\Flourtanten\obj\Debug\net7.0\Flourtanten.dll
+E:\Kattis\C#\Medium\Flourtanten\obj\Debug\net7.0\refint\Flourtanten.dll
+E:\Kattis\C#\Medium\Flourtanten\obj\Debug\net7.0\Flourtanten.pdb
+E:\Kattis\C#\Medium\Flourtanten\obj\Debug\net7.0\Flourtanten.genruntimeconfig.cache
+E:\Kattis\C#\Medium\Flourtanten\obj\Debug\net7.0\ref\Flourtanten.dll

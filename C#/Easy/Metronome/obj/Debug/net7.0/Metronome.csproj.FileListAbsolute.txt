@@ -1,0 +1,14 @@
+E:\Kattis\C#\Easy\Metronome\bin\Debug\net7.0\Metronome.exe
+E:\Kattis\C#\Easy\Metronome\bin\Debug\net7.0\Metronome.deps.json
+E:\Kattis\C#\Easy\Metronome\bin\Debug\net7.0\Metronome.runtimeconfig.json
+E:\Kattis\C#\Easy\Metronome\bin\Debug\net7.0\Metronome.dll
+E:\Kattis\C#\Easy\Metronome\bin\Debug\net7.0\Metronome.pdb
+E:\Kattis\C#\Easy\Metronome\obj\Debug\net7.0\Metronome.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kattis\C#\Easy\Metronome\obj\Debug\net7.0\Metronome.AssemblyInfoInputs.cache
+E:\Kattis\C#\Easy\Metronome\obj\Debug\net7.0\Metronome.AssemblyInfo.cs
+E:\Kattis\C#\Easy\Metronome\obj\Debug\net7.0\Metronome.csproj.CoreCompileInputs.cache
+E:\Kattis\C#\Easy\Metronome\obj\Debug\net7.0\Metronome.dll
+E:\Kattis\C#\Easy\Metronome\obj\Debug\net7.0\refint\Metronome.dll
+E:\Kattis\C#\Easy\Metronome\obj\Debug\net7.0\Metronome.pdb
+E:\Kattis\C#\Easy\Metronome\obj\Debug\net7.0\Metronome.genruntimeconfig.cache
+E:\Kattis\C#\Easy\Metronome\obj\Debug\net7.0\ref\Metronome.dll
